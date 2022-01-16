@@ -85,6 +85,8 @@
 			dependencies = (
 			);
 			name = insrt;
+			packageProductDependencies = (
+			);
 			productName = insrt;
 			productReference = A606CEC0264E2C2F00626963 /* insrt.app */;
 			productType = "com.apple.product-type.application";
@@ -112,6 +114,8 @@
 				Base,
 			);
 			mainGroup = A606CEB7264E2C2F00626963;
+			packageReferences = (
+			);
 			productRefGroup = A606CEC1264E2C2F00626963 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -272,7 +276,7 @@
 				DEVELOPMENT_TEAM = 43A35F7GKU;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = insrt/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -294,7 +298,7 @@
 				DEVELOPMENT_TEAM = 43A35F7GKU;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = insrt/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
